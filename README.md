@@ -6,3 +6,4 @@ Commit your changes.
 git commit -am 'Adding my name'
 Push your changes back to the master branch on the origin (github)
 git push origin
+
